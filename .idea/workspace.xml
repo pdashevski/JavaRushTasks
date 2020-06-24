@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="task's_update">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1709/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1709/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1716/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1716/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1718/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1718/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1719/ApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1719/Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1719/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1720/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1720/Bankomat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1720/NotEnoughMoneyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1720/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1722/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1722/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1714/Beach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1714/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1717/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1717/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1708/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1708/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1720/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1720/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -81,7 +69,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bankomat">
+  <component name="RunManager" selected="Application.Beach">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -364,6 +352,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Beach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1714.Beach" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task17.task1714.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1717.Solution" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task17.task1717.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1722.Solution" />
       <module name="2.JavaCore" />
@@ -371,34 +387,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task17.task1722.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1718.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task17.task1718.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1716.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task17.task1716.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,19 +460,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.ApplicationContext" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Bankomat" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Beach" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Beach" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Bankomat" />
         <item itemvalue="Application.ApplicationContext" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -528,7 +516,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592512387108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task's_update">
+      <created>1593022438756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593022438756</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task's_update">
+      <created>1593022641089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593022641089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -563,14 +565,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="task's_update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1591979819083">
+    <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1593033499934">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591979819083" />
-    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1592844766777">
+    <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593033499934" />
+    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1593022640321">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1592844766777" />
+    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593022640321" />
     <state x="92" y="92" width="1496" height="826" key="DiffContextDialog" timestamp="1592512631015">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -583,22 +585,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="607" y="214" key="Github.UntrackedFilesDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1592512139556" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1593022415503">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1593034115283">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593022415503" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1593022415503">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593034115283" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1593034115283">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593022415503" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1593022415502">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593034115283" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1593034115283">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593022415502" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1593022415503">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593034115283" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1593034115283">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593022415503" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593034115283" />
     <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1591309698551">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
