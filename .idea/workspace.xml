@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="task's_update">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1801/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1801/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1802/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1802/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1803/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1803/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1804/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1804/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1805/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1805/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1806/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1806/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1807/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1807/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/game2048/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/8.Games.iml" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/8.Games.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/GameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/MinesweeperGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/MinesweeperGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/Условие.jrtc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +25,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaRushTasks" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,16 +51,23 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1QmvbCUsd0K3z2VPCiEf7xsb23x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -70,8 +76,8 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -81,7 +87,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -336,27 +342,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Beach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1714.Beach" />
-      <module name="2.JavaCore" />
+    <configuration name="MinesweeperGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.games.minesweeper.MinesweeperGame" />
+      <module name="8.Games" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task17.task1714.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1712.Restaurant" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task17.task1712.*" />
+          <option name="PATTERN" value="com.javarush.games.minesweeper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,12 +371,26 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task17.task1717.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1806.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task17.task1717.*" />
+          <option name="PATTERN" value="com.javarush.task.task18.task1806.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1807.Solution" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task18.task1807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,7 +425,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -472,34 +478,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Beach" />
-      <item itemvalue="Application.Restaurant" />
+      <item itemvalue="Application.MinesweeperGame" />
       <item itemvalue="Application.SnakeGame" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.MinesweeperGame" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.SnakeGame" />
-        <item itemvalue="Application.Restaurant" />
-        <item itemvalue="Application.Beach" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -556,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594062291756</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task's_update">
+      <created>1594219349220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594219349220</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -570,13 +572,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -591,18 +592,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="task's_update" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="650" y="225" key="#Menus_and_Toolbars" timestamp="1600704541980">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="650" y="225" key="#Menus_and_Toolbars/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704541980" />
+    <state x="432" y="145" key="#Plugins" timestamp="1600704532235">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="145" key="#Plugins/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704532235" />
     <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1593708195587">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593708195587" />
-    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1594062291004">
+    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1594219348540">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1594062291004" />
+    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1594219348540" />
     <state x="92" y="92" width="1496" height="826" key="DiffContextDialog" timestamp="1592512631015">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="92" y="92" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1592512631015" />
+    <state x="620" y="264" key="FileChooserDialogImpl" timestamp="1600704498617">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="264" key="FileChooserDialogImpl/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704498617" />
     <state x="708" y="404" key="Github.ShareDialog" timestamp="1592512115015">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -611,38 +624,30 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="607" y="214" key="Github.UntrackedFilesDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1592512139556" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1594062313869">
+    <state width="1637" height="264" key="GridCell.Tab.0.bottom" timestamp="1600798232817">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1594062313869" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1594062313869">
+    <state width="1637" height="264" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600798232817" />
+    <state width="1637" height="264" key="GridCell.Tab.0.center" timestamp="1600798232816">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1594062313869" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1594062313869">
+    <state width="1637" height="264" key="GridCell.Tab.0.center/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600798232816" />
+    <state width="1637" height="264" key="GridCell.Tab.0.left" timestamp="1600798232816">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1594062313869" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1594062313869">
+    <state width="1637" height="264" key="GridCell.Tab.0.left/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600798232816" />
+    <state width="1637" height="264" key="GridCell.Tab.0.right" timestamp="1600798232817">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1594062313869" />
-    <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1591309698551">
+    <state width="1637" height="264" key="GridCell.Tab.0.right/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600798232817" />
+    <state x="420" y="239" key="IDE.errors.dialog" timestamp="1600704423098">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591309698551" />
-    <state width="1637" height="336" key="GridCell.Tab.1.center" timestamp="1591309698551">
+    <state x="420" y="239" key="IDE.errors.dialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704423098" />
+    <state x="343" y="151" key="SettingsEditor" timestamp="1600704722966">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.center/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591309698551" />
-    <state width="1637" height="336" key="GridCell.Tab.1.left" timestamp="1591309698551">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.left/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591309698551" />
-    <state width="1637" height="336" key="GridCell.Tab.1.right" timestamp="1591309698551">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.right/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591309698551" />
+    <state x="343" y="151" key="SettingsEditor/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704722966" />
     <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1593034260561">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -651,10 +656,6 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="594" y="243" key="VcsDiffUtil.ChangesDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1592512626571" />
-    <state x="492" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591977676157">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="492" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591977676157" />
     <state x="558" y="242" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1592512314698">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -663,22 +664,18 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="651" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1594219318927" />
-    <state x="419" y="245" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591303902504">
+    <state x="320" y="240" width="1040" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600791594694">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="419" y="245" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591303902504" />
+    <state x="320" y="240" width="1040" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600791594694" />
     <state x="636" y="309" key="git4idea.merge.GitMergeDialog" timestamp="1593034244252">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="636" y="309" key="git4idea.merge.GitMergeDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1593034244252" />
-    <state x="496" y="233" key="run.anything.popup" timestamp="1591986853271">
+    <state x="222" y="132" key="new project wizard" timestamp="1600705223877">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591986853271" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1591438696465">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1591438696465" />
+    <state x="222" y="132" key="new project wizard/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600705223877" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -837,6 +834,10 @@
           <properties field="name" class="com.javarush.task.task15.task1524.Solution" />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="67" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
