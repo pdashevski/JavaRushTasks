@@ -14,13 +14,18 @@ public class Solution {
         try (FileInputStream fileInputStream = new FileInputStream(args[1]);
              FileOutputStream fileOutputStream = new FileOutputStream(args[2])) {
 
+            if (args[0].equals("-e")) {
+                while (fileInputStream.available() > 0) {
+                    fileOutputStream.write(fileInputStream.read() + 1);
+                }
+            } else if (args[0].equals("-d")) {
+                while (fileInputStream.available() > 0) {
+                    fileOutputStream.write(fileInputStream.read() - 1);
+                }
 
+            }
 
         }
-
-
-
-
     }
 
 }

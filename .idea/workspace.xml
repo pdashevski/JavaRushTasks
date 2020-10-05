@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1826/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1826/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -373,13 +372,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1819.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1826.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task18.task1819.*" />
+          <option name="PATTERN" value="com.javarush.task.task18.task1826.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,13 +386,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TxtInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1814.TxtInputStream" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1819.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task18.task1814.*" />
+          <option name="PATTERN" value="com.javarush.task.task18.task1819.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -469,17 +468,17 @@
     <list>
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.TxtInputStream" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.TxtInputStream" />
       </list>
     </recent_temporary>
   </component>
@@ -582,7 +581,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601894895142</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task's_update">
+      <created>1601899987839</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601899987839</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -628,14 +634,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1601161341683" />
-    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1601894894280">
+    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1601899987177">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1601894894280" />
-    <state x="105" y="123" width="1496" height="826" key="DiffContextDialog" timestamp="1601676189494">
+    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1601899987177" />
+    <state x="105" y="123" width="1496" height="826" key="DiffContextDialog" timestamp="1601900693604">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="105" y="123" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1601676189494" />
+    <state x="105" y="123" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1601900693604" />
     <state x="620" y="264" key="FileChooserDialogImpl" timestamp="1600704498617">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
