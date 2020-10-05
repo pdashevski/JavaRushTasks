@@ -1,9 +1,6 @@
 package com.javarush.task.task18.task1827;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,5 +10,12 @@ import java.util.List;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        String fileName = bufferedReader.readLine();
+
+        try (FileInputStream fileInputStream = new FileInputStream(fileName);
+             FileOutputStream fos = new FileOutputStream(fileName)) {
+
+        }
     }
 }
