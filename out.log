@@ -27343,3 +27343,68 @@
 2020-10-06 23:17:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
 2020-10-06 23:18:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
 2020-10-06 23:19:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:20:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:20:17 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:20:17 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-10-06 23:20:26 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:20:26 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-10-06 23:20:30 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-10-06 23:20:30 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-10-06 23:20:36 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:20:36 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-10-06 23:21:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:21:12 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-10-06 23:21:12 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(73) - File created :C:/Users/Musya/Desktop/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1907
+2020-10-06 23:21:12 INFO  TaskInfoSelectorMouseListener.run(515) - checkpoint 1
+2020-10-06 23:21:12 INFO  TaskInfoSelectorMouseListener.run(517) - checkpoint 2
+2020-10-06 23:21:12 INFO  TaskInfoSelectorMouseListener.run(523) - checkpoint 3
+2020-10-06 23:21:12 INFO  TaskInfoSelectorMouseListener.run(515) - checkpoint 1
+2020-10-06 23:21:12 INFO  TaskInfoSelectorMouseListener.run(517) - checkpoint 2
+2020-10-06 23:21:12 INFO  TaskInfoSelectorMouseListener.run(523) - checkpoint 3
+2020-10-06 23:22:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:23:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:24:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:25:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:26:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:27:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:28:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:29:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:30:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:31:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:32:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:33:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:34:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:35:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:36:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:37:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:38:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:39:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:40:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:41:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:42:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:43:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:43:52 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:43:52 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-10-06 23:44:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:45:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:46:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:47:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:47:26 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:48:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:49:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:50:02 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:50:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:50:40 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:50:56 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:51:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:52:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:53:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:54:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:55:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:56:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:57:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:58:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-10-06 23:58:12 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-10-06 23:58:12 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-10-06 23:58:20 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-10-06 23:58:20 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
