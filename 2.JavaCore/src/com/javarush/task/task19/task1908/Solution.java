@@ -9,17 +9,43 @@ import java.util.ArrayList;
 
 public class Solution {
     public static void main(String[] args) throws IOException {
-        try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in))) {
-            try (FileReader fileReader = new FileReader(bufferedReader.readLine());
-                 FileWriter fileWriter = new FileWriter(bufferedReader.readLine())) {
-                char ch;
-                StringBuilder stringBuilder = new StringBuilder();
-                while (fileReader.ready()) {
-                    ch = (char) fileReader.read();
-                    stringBuilder = stringBuilder.append(ch);
-                }
-            }
+        String inputFile, outputFile;
 
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
+            inputFile = reader.readLine();
+            outputFile = reader.readLine();
+        }
+
+        StringBuilder str = new StringBuilder();
+        char ch;
+
+        try (BufferedReader br = new BufferedReader(new FileReader(inputFile))) {
+            while(br.ready())
+            {
+                ch = (char) br.read();
+                str = str.append(ch);
+            }
+        }
+
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(outputFile))) {
+            bw.write(String.valueOf(str.toString().split("\\b\\d+\\b")));
         }
     }
+
+
+
+
+
+
+
+
+                /*while (fileReader.ready()) {
+                    bf.write(fileReader.read());
+                }
+                "(([A-Za-zА-Яа-я]+([\\d]*)).+?)|((([\\d]*[A-Za-zА-Яа-я]+)).+?)",""*/
+
+
+
+
 }
+

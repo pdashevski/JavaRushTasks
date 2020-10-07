@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="task's_update">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -625,7 +624,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602017915390</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="task's_update">
+      <created>1602019657216</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602019657216</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -675,14 +681,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602003430110" />
-    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1602017914788">
+    <state x="514" y="106" key="CommitChangelistDialog2" timestamp="1602019656568">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602017914788" />
-    <state x="127" y="109" width="1496" height="828" key="DiffContextDialog" timestamp="1602017665551">
+    <state x="514" y="106" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602019656568" />
+    <state x="129" y="192" width="1496" height="828" key="DiffContextDialog" timestamp="1602087442458">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="127" y="109" width="1496" height="828" key="DiffContextDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602017665551" />
+    <state x="129" y="192" width="1496" height="828" key="DiffContextDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602087442458" />
     <state x="620" y="264" key="FileChooserDialogImpl" timestamp="1600704498617">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -727,6 +733,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="222" y="132" key="new project wizard/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600705223877" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1602019691095">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602019691095" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
