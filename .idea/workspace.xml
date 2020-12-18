@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="task20.task2001 is done!">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2004/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2004/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2005/Asset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2005/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2005/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/racer/RacerGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/racer/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="race game 1 update">
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/racer/RacerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/racer/RacerGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/racer/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/racer/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -722,7 +714,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602525789436</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="race game 1 update">
+      <created>1608328090805</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1608328090805</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -754,81 +753,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task's_update" />
     <MESSAGE value="task20.task2001 is done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="task20.task2001 is done!" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="650" y="225" key="#Menus_and_Toolbars" timestamp="1600704541980">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="650" y="225" key="#Menus_and_Toolbars/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704541980" />
-    <state x="607" y="328" key="#Notifications" timestamp="1601992005927">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="607" y="328" key="#Notifications/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1601992005927" />
-    <state x="432" y="145" key="#Plugins" timestamp="1606732572547">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="432" y="145" key="#Plugins/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1606732572547" />
-    <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1602791951651">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="877" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602791951651" />
-    <state x="483" y="146" key="CommitChangelistDialog2" timestamp="1602525788350">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="483" y="146" key="CommitChangelistDialog2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602525788350" />
-    <state x="111" y="49" width="1496" height="828" key="DiffContextDialog" timestamp="1602793173339">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="111" y="49" width="1496" height="828" key="DiffContextDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602793173339" />
-    <state x="620" y="264" key="FileChooserDialogImpl" timestamp="1600704498617">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="620" y="264" key="FileChooserDialogImpl/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704498617" />
-    <state width="1637" height="264" key="GridCell.Tab.0.bottom" timestamp="1602793173263">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="264" key="GridCell.Tab.0.bottom/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602793173263" />
-    <state width="1637" height="264" key="GridCell.Tab.0.center" timestamp="1602793173263">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="264" key="GridCell.Tab.0.center/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602793173263" />
-    <state width="1637" height="264" key="GridCell.Tab.0.left" timestamp="1602793173262">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="264" key="GridCell.Tab.0.left/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602793173262" />
-    <state width="1637" height="264" key="GridCell.Tab.0.right" timestamp="1602793173263">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="264" key="GridCell.Tab.0.right/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602793173263" />
-    <state x="420" y="239" key="IDE.errors.dialog" timestamp="1600704423098">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="420" y="239" key="IDE.errors.dialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704423098" />
-    <state x="343" y="151" key="SettingsEditor" timestamp="1600704722966">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="343" y="151" key="SettingsEditor/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600704722966" />
-    <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1602193861184">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="432" y="242" key="Vcs.Push.Dialog.v2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602193861184" />
-    <state x="320" y="240" width="1040" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600791594694">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="320" y="240" width="1040" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1600791594694" />
-    <state x="222" y="132" key="new project wizard" timestamp="1602863957383">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="222" y="132" key="new project wizard/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602863957383" />
-    <state x="683" y="262" key="refactoring.ChangeSignatureDialog" timestamp="1602525333163">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="683" y="262" key="refactoring.ChangeSignatureDialog/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602525333163" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1602019691095">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010/-1280.25.1280.984@0.0.1680.1010" timestamp="1602019691095" />
+    <MESSAGE value="race game 1 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="race game 1 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
